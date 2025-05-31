@@ -245,7 +245,7 @@ footer {
   </header>
 
   <section class="hero">
-    <h1 style="font-size: 3rem; font-weight: 700; text-transform: uppercase; color: var(--highlight-color); letter-spacing: 2px;">Dixwell Total Wireless Store</h1>
+    <h1 style="font-size: 3rem; font-weight: 500; text-transform: uppercase; color: var(--highlight-color); letter-spacing: 2px;">Dixwell Total Wireless Store</h1>
     <p><strong>We are Total Wireless Authorized Dealers.</strong></p>
     <p>Serving the Dixwell community with trusted Total Wireless products and services.</p>
   </section>
